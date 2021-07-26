@@ -44,7 +44,7 @@ def scrap(url):
 
 if __name__ == "__main__":
     # number of pages of products to scrap
-    pg_no = 3
+    pg_no = 5
 
     #creating csv file
     filename = "products.csv"
